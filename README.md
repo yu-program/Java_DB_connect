@@ -1,0 +1,2 @@
+# Java_DB_connect
+JavaでJDBCドライバーを介して、DBに接続する方法を学習
